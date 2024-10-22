@@ -1,2 +1,1 @@
-// Lists all MongoDB databases.
-show dbs;
+echo "show dbs" | mongo
